@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- I am Issam, a web developer
+- 🔭 I’m currently studying
 <!--
 **issam-nz/issam-nz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
